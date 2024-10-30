@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @NoelWekulo
-- 👀 I’m interested in ...front end web development
-- 🌱 I’m currently learning ...react.js and node.js
-- 💞️ I’m looking to collaborate on ...website development projects
-- 📫 How to reach me ...email/ noelwekulo11@gmail.com
+Hi there! 👋 I'm Noel Wekulo
 
-<!---
-NoelWekulo/NoelWekulo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub! I'm a Full-Stack Developer specializing in building scalable, dynamic web applications using Python, Django, React, and more. 
+I’m passionate about creating efficient solutions with clean code and intuitive user experiences.
+
+🚀 About Me
+💻 I’m experienced in frontend (HTML, CSS, JavaScript, React) and backend (Python, Django, Flask).
+🌱 Currently deepening my skills in data structures and algorithms.
+🎯 Goal for the year: Build and deploy a full-stack project each quarter.
+
+🛠 Tech Stack
+Languages: Python, JavaScript, HTML, CSS
+Frontend: React, Bootstrap
+Backend: Django, Flask
+Databases: MySQL, MongoDB
+Tools: Git, GitHub, VS Code
+
+📌 Projects
+
+Here are some of my favourite projects:
+
+Project Name: Portfolio Website.
+Project Name: Grading System in Python
+Project Name: University Website
+
+📫 Connect with Me
+
+LinkedIn: Noel Wekulo
+Email: noelwekulo11@gmail.com
+
+Thanks for stopping by! 😊 Happy coding!
